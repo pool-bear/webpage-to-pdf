@@ -18,7 +18,7 @@ Notice: Version of webdriver and browser shall match.
 
 这个脚本能批量导出网页为pdf文件。
 
-# 依赖
+## 依赖
 - [Pandas](https://pandas.pydata.org/getting_started.html) 
 - [Serenium](https://pypi.org/project/selenium/)
 - [Google Chrome](https://www.google.com/chrome/)
