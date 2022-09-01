@@ -2,7 +2,7 @@
 
 This script batch exports webpages to pdf files.
 
-# Dependency
+## Dependency
 - [Pandas](https://pandas.pydata.org/getting_started.html) 
 - [Serenium](https://pypi.org/project/selenium/)
 - [Google Chrome](https://www.google.com/chrome/)
